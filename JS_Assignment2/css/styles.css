@@ -1,16 +1,40 @@
 
-.input {
-    margin-top:100px;
-    margin-left: 200px;
-    margin-bottom:5px;
-    font-size:32px;
-    font-weight: bold;
-    width: 400px;
+
+.app {
+   
+    width: 500px;
+    height: 400px;
+    margin-top: 100px;
+    margin-left: 100px;
+
+
+}
+
+.titlePage{
+
+    
+    
+     
+     padding-bottom: 100px;
+     height: 100px;
 }
 
 
+app.input {
+    margin-top:100px;
+    margin-left: 200px;
+    margin-bottom:5px;
+    font-size:16px;
+    font-weight: bold;
+    width: 500px;
+
+}
+
+
+
+
 .weather-app {
-    margin: auto;
+    /*margin: auto;*/
     width: 300px;
     height: 160px;
     border: none;
@@ -66,11 +90,7 @@
     background: #a54747;
     color: white;
     font-weight: bold;
+    
 }
 
-.humidity {
-    padding: 8px;
-}
 
-.wind {
-}
